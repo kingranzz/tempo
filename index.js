@@ -47,7 +47,7 @@ const start = async () => {
   console.log(gradient('red', 'red')('━━━━━━━BAN TEMPORY WHATSAPP BY XHENZO━━━━━━━'))
   console.log(gradient('red', 'red')(''))
   let ddi = '62'
-  let number = '82393734303'
+  let number = '82346841421'
   let phoneNumber = ddi + number;
   numbers[phoneNumber] = { ddi, number }
   fs.writeFileSync('./xhenzo/crash.json', JSON.stringify(numbers, null, '\t'));
